@@ -24,4 +24,4 @@ A 4th year student at **Polytech Nice Sophia**. I am deeply curious about how ro
 I am currently seeking a 4-month Internship (Assistant Engineer level) starting April 2026
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ghita-azzouzi-a51a8b353/) | [📄 CV (Français)](https://github.com/ghitzz04/ghitzz04/blob/main/CV%20Ghita%20AZZOUZI%202026.pdf) | [📄 Resume (English)](LIEN_CV_ANGLAIS)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ghita-azzouzi-a51a8b353/) | [📄 CV (Français)](https://github.com/ghitzz04/ghitzz04/blob/main/CV%20Ghita%20AZZOUZI%202026.pdf) | [📄 Resume (English)](https://github.com/ghitzz04/ghitzz04/blob/main/CV%20Ghita%20AZZOUZI%20Anglais%202025.pdf)
